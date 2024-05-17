@@ -1,7 +1,4 @@
 # Hands-On Introduction: Data Engineering
-This is the repository for the LinkedIn Learning course Hands-On Introduction: Data Engineering. The full course is available from [LinkedIn Learning][lil-course-url].
-
-![Hands-On Introduction: Data Engineering][lil-thumbnail-url] 
 
 Today’s world is flooded with data, which puts businesses up to task. In response, organizations, companies, and employees around the world have adopted data-driven decision-making techniques. However, the vast majority of new data practitioners haven’t been formally trained. They don’t know how to build and construct stable data pipelines that can function effectively at speed and scale. Moreover, they haven't been given the framework(s) to distill data-oriented tasks into discrete components.
 
