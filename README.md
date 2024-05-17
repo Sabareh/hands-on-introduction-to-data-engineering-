@@ -23,15 +23,3 @@ To resolve this issue:
 	
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
-
-
-### Instructor
-
-[Vinoo Ganesh](https://www.vinoo.io)
-                            
-
-
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/vinoo-ganesh).
-
-[lil-course-url]: https://www.linkedin.com/learning/hands-on-introduction-data-engineering?dApp=59033956&leis=LAA
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQG4v5bQSL1ZAg/learning-public-crop_675_1200/0/1682529028787?e=2147483647&v=beta&t=fogaI1G7xbC_Cin70-3NwxbdW2WaE-heDOliyoTo-R4
